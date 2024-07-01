@@ -29,10 +29,6 @@ nav ul {
   flex-direction: column;
 }
 
-img {
-  border-radius: 1rem;
-}
-
 h1,
 li {
   margin: 1rem 0;
